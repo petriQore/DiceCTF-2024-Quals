@@ -1,3 +1,4 @@
 # DiceCTF-2024-Quals
-Some writeups
+Some writeups 
+
 189/1040
